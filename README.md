@@ -1,7 +1,5 @@
 # Orders Outbox Demo
 
-[English version](README.md)
-
 Небольшой проект на Spring Boot 4 и Apache Kafka, который показывает, как доставлять события **надёжно**:
 Transactional Outbox, идемпотентный консьюмер, повторы и Dead Letter Topic.
 Это учебный проект с тестами и намеренными падениями процесса для проверки надёжности.
